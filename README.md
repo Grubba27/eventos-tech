@@ -6,7 +6,7 @@ Abaixo temos a lista de eventos tech no Brasil e no mundo. Se você conhece algu
 ## Global - 2022
 - [DevOpsDays - Rio](https://devopsdays.org/events/2022-rio-de-janeiro/welcome/)
 - [Meteor impact](https://impact.meteor.com/)
-
+- [Next.js Conf](https://nextjs.org/conf) - 25 de Outubro - Online
 
 ## Brasil - 2022
 
